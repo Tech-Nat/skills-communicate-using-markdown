@@ -6,7 +6,10 @@
 
 #### This is an `<h4>` header
 
-##### This is an `<h5>` header
+##### This is a code example
+``` python3
+print ("hello world!")
+```
 
 ###### Adding an image
 
